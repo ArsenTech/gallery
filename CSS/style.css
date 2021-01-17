@@ -19,7 +19,7 @@ html{scroll-behavior: smooth;}
 .image{flex: 25%; overflow: hidden; cursor: pointer;}
 .image img{width: 100%; height: 100%; transition: 0.5s;}
 .image:hover img{transform: scale(1.4) rotate(15deg);}
-#site-footer{padding: 90px 0;}
+#site-footer{padding: 90px 0; background: #22b455; height: 393px;}
 .footer-container{
     max-width: 1300px;
     margin: auto;
@@ -38,12 +38,12 @@ html{scroll-behavior: smooth;}
     text-decoration: none;
     transition: 0.4s linear;
 }
-.sm a:hover{color: #22b455;}
+.sm a:hover{color: #92e5a1;}
 .right-col h2{font-size: 26px;}
 .footer-border{
     width: 100px;
     height: 5px;
-    background: #92e5a1;
+    background: #59ff77;
     margin: 10px 0;
 }
 .link{
@@ -60,7 +60,7 @@ html{scroll-behavior: smooth;}
     text-decoration: none;
     transition: 0.5s linear;
 }
-.link a:hover{color: #22b455}
+.link a:hover{color: #92e5a1}
 @media screen and (max-width: 960px){
     .image{flex: 33.33%;} 
     .footer-container{max-width: 600px;}
