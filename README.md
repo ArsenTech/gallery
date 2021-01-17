@@ -1,2 +1,2 @@
 # Gallery
-Gallery Page of ArsenTech's Website
+Gallery Page of ArsenTech's Website (Coming Soon)
