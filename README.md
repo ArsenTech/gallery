@@ -1,2 +1,2 @@
-# gallery
-Gallery Page of ArsenTech/s Website
+# Gallery
+Gallery Page of ArsenTech's Website
