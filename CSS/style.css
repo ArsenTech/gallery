@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Sora', Arial;
+}
+body{background: #1dd1a1;}
+html{scroll-behavior: smooth;}
+::-webkit-scrollbar{width: 25px; background: #333;}
+::-webkit-scrollbar-track{border: 7px solid #353b48; box-shadow: inset 0 0 2.5px 2px rgba(0,0,0,0.5);}
+::-webkit-scrollbar-thumb{background: linear-gradient(45deg, #22b455, #1dd1a1);}
+::selection {color: #020204; background-color: #92e5a1;}
+.gallery-section{width: 100%; padding: 60px 0;}
+.inner-width{width: 100%; max-width: 1200px; margin: auto; padding: 0 20px;}
+.gallery-section h1{text-align: center; text-transform: uppercase; color: #204829;}
+.border{width: 180px; height: 4px; background: #204829; margin: 60px auto;}
+.gallery{display: flex; flex-wrap: wrap; justify-content: center;}
+.image{flex: 25%; overflow: hidden; cursor: pointer;}
+.image img{width: 100%; height: 100%; transition: 0.5s;}
+.image:hover img{transform: scale(1.4) rotate(15deg);}
+#site-footer{padding: 90px 0;}
+.footer-container{
+    max-width: 1300px;
+    margin: auto;
+    padding: 0 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-flow: row wrap;
+}
+.logo{width: 180px;}
+.sm{margin: 20px;}
+.sm a{
+    color: #204829; 
+    margin-right: 25px;
+    font-size: 25px;
+    text-decoration: none;
+    transition: 0.4s linear;
+}
+.sm a:hover{color: #22b455;}
+.right-col h2{font-size: 26px;}
+.footer-border{
+    width: 100px;
+    height: 5px;
+    background: #92e5a1;
+    margin: 10px 0;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 10px;
+}
+.link a{
+    margin: 15px;
+    font-size: 20px;
+    color: #204829;
+    text-decoration: none;
+    transition: 0.5s linear;
+}
+.link a:hover{color: #22b455}
+@media screen and (max-width: 960px){
+    .image{flex: 33.33%;} 
+    .footer-container{max-width: 600px;}
+    .right-col{width: 100%;  margin-bottom: 60px;}
+    .left-col{width: 100%; text-align: center; margin-bottom: 20px;}
+}
+@media screen and (max-width: 768px){.image{flex: 50%;}}
+@media screen and (max-width: 480px){.image{flex: 100%;}}
