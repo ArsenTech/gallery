@@ -1,0 +1,10 @@
+compress_html:
+    comments: all 
+    
+exclude:
+  - CONTRIBUTING.md
+  - LICENSE
+  - README.md
+  
+gems:
+  - jekyll-sitemap
