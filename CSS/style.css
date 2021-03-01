@@ -1,10 +1,4 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    font-family: 'Sora', Arial;
-}
+*{margin: 0;padding: 0;box-sizing: border-box;text-decoration: none;font-family: 'Sora', Arial;}
 body{background: #1dd1a1;}
 html{scroll-behavior: smooth;}
 ::-webkit-scrollbar{width: 25px; background: #333;}
