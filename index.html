@@ -48,7 +48,7 @@
                     <a href="https://github.com/ArsenTech"><span class="iconify" data-icon="ant-design:github-outlined" data-inline="false"></span></a>
                     <a href="https://scratch.mit.edu/users/ArsenTech/"><span class="iconify" data-icon="simple-icons:scratch" data-inline="false"></span></a>
                 </div>
-                <p class="copyright">© 2019 - 2021 | Developed by ArsenTech</p>
+                <p class="copyright">© <span id="yearCount"></span> | Developed by ArsenTech</p>
             </div>
             <div class="right-col">
                 <h2>Info</h2>
@@ -63,6 +63,9 @@
     </footer>
     <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>  
     <script src="JS/lightbox-plus-jquery.min.js"></script>
+    <script>
+          document.getElementById("yearCount").innerHTML = new Date().getFullYear()
+    </script>
    <noscript>
        <style type="text/css">
            #site-header, #site-main, #site-footer, #error {display:none;}
