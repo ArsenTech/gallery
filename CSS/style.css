@@ -27,11 +27,14 @@ html{scroll-behavior: smooth;}
 .sm{margin: 20px;}
 .sm a{color: #204829; margin-right: 25px;font-size: 25px;text-decoration: none;transition: 0.4s linear;}
 .sm a:hover{color: #92e5a1;}
-.right-col h2{font-size: 26px;}
+.right-col{width: 850px;}
+.right-col h2{font-size: 30px;}
 .footer-border{width: 100px;height: 5px;background: #59ff77;margin: 10px 0;}
 .link{display: flex;justify-content: center;align-items: center;flex-wrap: wrap;margin: 10px;}
 .link a{margin: 15px;font-size: 20px;color: #204829;text-decoration: none;transition: 0.5s linear;}
 .link a:hover{color: #92e5a1}
+@media screen and (max-width: 1024px){.right-col{width: 550px;}}
+@media screen and (max-width: 1188px){.right-col{width: 650px;}}
 @media screen and (max-width: 960px){.image{flex: 33.33%;} .footer-container{max-width: 600px;}.right-col{width: 100%;  margin-bottom: 60px;}.left-col{width: 100%; text-align: center; margin-bottom: 20px;}}
 @media screen and (max-width: 768px){.image{flex: 50%;}}
 @media screen and (max-width: 480px){.image{flex: 100%;}}
