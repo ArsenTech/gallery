@@ -3,9 +3,9 @@
 # Gallery
 Gallery Page of ArsenTech's Website. If You want to Report Bug, or Request Feature, Write an Issue (or Pull Request) and ArsenTech will be in touch with you soon.
 ## Website Speed (Tested)
-Google PageSpeed Insights Score: **95** on 📱, **94** on 🖥 <br>
-Pingdom Website Speed Test Score: ![A](https://user-images.githubusercontent.com/62609185/105687639-20d7dd80-5f12-11eb-9385-a217c3103eb2.PNG) **99** <br>
-GTmetrix Score: <span></span><img src="https://user-images.githubusercontent.com/62609185/103670287-d27a9300-4f92-11eb-94dd-c46532b8f921.PNG" width="32" /><span></span> (Performance: **100%**, Structure: **97%**)
+Google PageSpeed Insights Score: **73** on 📱, **86** on 🖥 <br>
+Pingdom Website Speed Test Score: ![B](https://user-images.githubusercontent.com/62609185/110242063-acab4380-7f6d-11eb-897f-804ca7d1cc77.PNG) **84** <br>
+GTmetrix Score: <span></span><img src="https://user-images.githubusercontent.com/62609185/103670287-d27a9300-4f92-11eb-94dd-c46532b8f921.PNG" width="32" /><span></span> (Performance: **96%**, Structure: **98%**)
 ## Info
 ArsenTech's Photos are landscape and it is about Armenia (Yerevan, Tsaghkadzor, Ejmiatsin, Sevan).
 all photos are made by ArsenTech.
