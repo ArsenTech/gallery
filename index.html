@@ -13,6 +13,7 @@
     <title>Gallery - ArsenTech</title>
 </head>
 <body>
+<div class="loader-wrapper"><div class="loader"></div></div>
   <main id="site-main">
     <div class="gallery-section">
         <div class="inner-width">
@@ -62,7 +63,7 @@
     </footer>
     <script defer src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>  
     <script defer src="JS/lightbox-plus-jquery.min.js"></script>
-    <script defer>function lazyCss(e){let t=document.createElement("link");t.href=e,t.rel="stylesheet",t.type="text/css",document.getElementsByTagName("head")[0].appendChild(t)}lazyCss("CSS/lightbox.min.css"),lazyCss("https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap"),document.getElementById("yearCount").innerHTML=(new Date).getFullYear();</script>
+    <script defer>function lazyCss( e ){ let t=document.createElement( "link" ); t.href=e, t.rel="stylesheet", t.type="text/css", document.getElementsByTagName( "head" )[ 0 ] .appendChild( t )} lazyCss( "CSS/lightbox.min.css" ), lazyCss( "https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap" ), window.addEventListener("load", function(){ const loader=document.querySelector(".loader-wrapper"); loader.className +=" loader-hidden"}); document.getElementById( "yearCount" ).innerHTML=( new Date ).getFullYear();</script>
     <noscript><link rel="stylesheet" href="CSS/lightbox.min.css"><link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Sora:wght@300;400;500;600;700&display=swap"/><style type="text/css">#site-header, #site-main, #site-footer, #error {display:none;}body{min-height: 100vh; text-align: center; background: linear-gradient(#22b455, #1dd1a1); background-repeat: no-repeat}h1{color: #d9534f; margin: 10px;}.err{width: 100%; position: absolute; top: 50%;}</style><div class="err"><h1>There was an error</h1><p>Sorry, but your browser doesn't support Javascript, Please enable JavaScript in your browser for best experience for website.</p></div></noscript>
 </body>
 </html>
