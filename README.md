@@ -2,10 +2,6 @@
 
 # Gallery
 Gallery Page of ArsenTech's Website. If You want to Report Bug, or Request Feature, Write an Issue and ArsenTech will be in touch with you soon.
-## Website Speed (Tested)
-Google PageSpeed Insights Score: **74** on 📱, **88** on 🖥 <br>
-Pingdom Website Speed Test Score: ![B](https://user-images.githubusercontent.com/62609185/110242063-acab4380-7f6d-11eb-897f-804ca7d1cc77.PNG) **84** <br>
-GTmetrix Score: <span></span><img src="https://user-images.githubusercontent.com/62609185/103670287-d27a9300-4f92-11eb-94dd-c46532b8f921.PNG" width="32" /><span></span> (Performance: **94%**, Structure: **98%**)
 
 ## WARNING:
 This Web page is no-longer hosted on ArsenTech's Website as a Subpage. This is Archived
