@@ -6,9 +6,10 @@ Gallery Page of ArsenTech's Website. If You want to Report Bug, or Request Featu
 Google PageSpeed Insights Score: **74** on 📱, **88** on 🖥 <br>
 Pingdom Website Speed Test Score: ![B](https://user-images.githubusercontent.com/62609185/110242063-acab4380-7f6d-11eb-897f-804ca7d1cc77.PNG) **84** <br>
 GTmetrix Score: <span></span><img src="https://user-images.githubusercontent.com/62609185/103670287-d27a9300-4f92-11eb-94dd-c46532b8f921.PNG" width="32" /><span></span> (Performance: **94%**, Structure: **98%**)
-## Info
-ArsenTech's Photos are landscape and it is about Armenia (Yerevan, Tsaghkadzor, Ejmiatsin, Sevan).
-all photos are made by ArsenTech.
+
+## WARNING:
+This Web page is no-longer hosted on ArsenTech's Website as a Subpage. This is Archived
+
 ## Follow
 <a href="https://www.youtube.com/channel/UCrtH0g6NE8tW5VIEgDySYtg" target="_blank"><img src="https://img.shields.io/badge/ArsenTech%20-%231DD1A1.svg?&style=for-the-badge&logo=YouTube&logoColor=FF0000"/></a>
 <a href="https://scratch.mit.edu/users/ArsenTech/" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-1DD1A1?style=for-the-badge&logo=scratch&logoColor=orange"></a>
