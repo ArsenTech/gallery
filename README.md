@@ -12,4 +12,4 @@ This Web page is no-longer hosted on ArsenTech's Website as a Subpage. This is A
 <a href="https://codepen.io/ArsenJS" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-1DD1A1?style=for-the-badge&logo=codepen&logoColor=black"></a>
 <a href="https://github.com/ArsenTech" target="_blank"><img src="https://img.shields.io/badge/-ArsenTech-1DD1A1?style=for-the-badge&amp;logo=github&amp;logoColor=24292e"></a>
 > GitHub [@ArsenTech](https://github.com/ArsenTech) &nbsp;&middot;&nbsp;
-> [ArsenTech's Website](https://arsentech.github.io) &nbsp;&middot;&nbsp;
+> [ArsenTech's Website](https://arsentech.github.io)
